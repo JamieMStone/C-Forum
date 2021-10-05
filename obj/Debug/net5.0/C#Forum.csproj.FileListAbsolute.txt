@@ -1,0 +1,32 @@
+F:\SSD BACKUP!!!!\Multiverse bootcamp\Week 4\C#Forum\obj\Debug\net5.0\C#Forum.csproj.AssemblyReference.cache
+F:\SSD BACKUP!!!!\Multiverse bootcamp\Week 4\C#Forum\obj\Debug\net5.0\C#Forum.GeneratedMSBuildEditorConfig.editorconfig
+F:\SSD BACKUP!!!!\Multiverse bootcamp\Week 4\C#Forum\obj\Debug\net5.0\C#Forum.AssemblyInfoInputs.cache
+F:\SSD BACKUP!!!!\Multiverse bootcamp\Week 4\C#Forum\obj\Debug\net5.0\C#Forum.AssemblyInfo.cs
+F:\SSD BACKUP!!!!\Multiverse bootcamp\Week 4\C#Forum\obj\Debug\net5.0\C#Forum.csproj.CoreCompileInputs.cache
+F:\SSD BACKUP!!!!\Multiverse bootcamp\Week 4\C#Forum\bin\Debug\net5.0\C#Forum.exe
+F:\SSD BACKUP!!!!\Multiverse bootcamp\Week 4\C#Forum\bin\Debug\net5.0\C#Forum.deps.json
+F:\SSD BACKUP!!!!\Multiverse bootcamp\Week 4\C#Forum\bin\Debug\net5.0\C#Forum.runtimeconfig.json
+F:\SSD BACKUP!!!!\Multiverse bootcamp\Week 4\C#Forum\bin\Debug\net5.0\C#Forum.runtimeconfig.dev.json
+F:\SSD BACKUP!!!!\Multiverse bootcamp\Week 4\C#Forum\bin\Debug\net5.0\C#Forum.dll
+F:\SSD BACKUP!!!!\Multiverse bootcamp\Week 4\C#Forum\bin\Debug\net5.0\ref\C#Forum.dll
+F:\SSD BACKUP!!!!\Multiverse bootcamp\Week 4\C#Forum\bin\Debug\net5.0\C#Forum.pdb
+F:\SSD BACKUP!!!!\Multiverse bootcamp\Week 4\C#Forum\obj\Debug\net5.0\C#Forum.dll
+F:\SSD BACKUP!!!!\Multiverse bootcamp\Week 4\C#Forum\obj\Debug\net5.0\ref\C#Forum.dll
+F:\SSD BACKUP!!!!\Multiverse bootcamp\Week 4\C#Forum\obj\Debug\net5.0\C#Forum.pdb
+F:\SSD BACKUP!!!!\Multiverse bootcamp\Week 4\C#Forum\obj\Debug\net5.0\C#Forum.genruntimeconfig.cache
+E:\Multiverse bootcamp\Week 4\C#Forum\obj\Debug\net5.0\C#Forum.csproj.AssemblyReference.cache
+E:\Multiverse bootcamp\Week 4\C#Forum\obj\Debug\net5.0\C#Forum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Multiverse bootcamp\Week 4\C#Forum\obj\Debug\net5.0\C#Forum.AssemblyInfoInputs.cache
+E:\Multiverse bootcamp\Week 4\C#Forum\obj\Debug\net5.0\C#Forum.AssemblyInfo.cs
+E:\Multiverse bootcamp\Week 4\C#Forum\obj\Debug\net5.0\C#Forum.csproj.CoreCompileInputs.cache
+E:\Multiverse bootcamp\Week 4\C#Forum\obj\Debug\net5.0\C#Forum.dll
+E:\Multiverse bootcamp\Week 4\C#Forum\obj\Debug\net5.0\ref\C#Forum.dll
+E:\Multiverse bootcamp\Week 4\C#Forum\obj\Debug\net5.0\C#Forum.pdb
+E:\Multiverse bootcamp\Week 4\C#Forum\bin\Debug\net5.0\C#Forum.exe
+E:\Multiverse bootcamp\Week 4\C#Forum\bin\Debug\net5.0\C#Forum.deps.json
+E:\Multiverse bootcamp\Week 4\C#Forum\bin\Debug\net5.0\C#Forum.runtimeconfig.json
+E:\Multiverse bootcamp\Week 4\C#Forum\bin\Debug\net5.0\C#Forum.runtimeconfig.dev.json
+E:\Multiverse bootcamp\Week 4\C#Forum\bin\Debug\net5.0\C#Forum.dll
+E:\Multiverse bootcamp\Week 4\C#Forum\bin\Debug\net5.0\ref\C#Forum.dll
+E:\Multiverse bootcamp\Week 4\C#Forum\bin\Debug\net5.0\C#Forum.pdb
+E:\Multiverse bootcamp\Week 4\C#Forum\obj\Debug\net5.0\C#Forum.genruntimeconfig.cache
